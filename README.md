@@ -2,6 +2,10 @@
 
 "이것이 취업을 위한 코딩 테스트다" RUST 버전 
 
+* Online Editor https://play.rust-lang.org/
+* Status 
+  * Ch1 [working]
+
 
 
 ### 이것이 취업을 위한 코딩 테스트다 with Python
